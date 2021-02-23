@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: rgb(40, 255, 0);
+    background: radial-gradient(circle, rgba(40, 255, 0, 1) 0%, rgba(7, 255, 244, 1) 62%, rgba(0, 134, 255, 1) 100%);
+}
+#P_1{
+    font-family: fantasy;
+    font-style: italic;
+    color: chocolate;
+}
+#P_2{
+    font-family: fantasy;
+    font-style: italic;
+    color: chocolate;
+}
